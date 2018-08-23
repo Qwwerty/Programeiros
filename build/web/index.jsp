@@ -1,9 +1,5 @@
 <!DOCTYPE HTML>
-<!--
-	Hielo by TEMPLATED
-	templated.co @templatedco
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
--->
+
 <html>
 	<head>
 		<title>Programeiros</title>
@@ -23,7 +19,7 @@
 			<nav id="menu">
 				<ul class="links">
 					<li><a href="index.html">Home</a></li>
-                                        <li><a href="#" >Login</a></li>
+                                        <li><a href="Login/login.jsp" >Login</a></li>
 					<li><a href="generic.html">Generic</a></li>
 					<li><a href="elements.html">Elements</a></li>
 				</ul>
@@ -35,7 +31,7 @@
 					<img src="images/slide01.jpg" alt="" />
 					<div class="inner">
 						<header>
-							<p>A free responsive web site template by <a href="https://templated.co">TEMPLATED</a></p>
+							<p>A ciência de hoje é a tecnologia de amanhã. <a href="#">Acesse</a></p>
 							<h2>Programeiros</h2>
 						</header>
 					</div>
@@ -44,7 +40,7 @@
 					<img src="images/slide02.jpg" alt="" />
 					<div class="inner">
 						<header>
-							<p>Lorem ipsum dolor sit amet nullam feugiat</p>
+							<p>Tudo você encontra aqui</p>
 							<h2>Material de Estudo</h2>
 						</header>
 					</div>
